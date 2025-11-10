@@ -6,7 +6,7 @@ Ce projet transforme un fichier CSV contenant les informations des lauréats du 
 
 ### Utilisation pour autres groupes !
 
-Le graphe peut être récupéré dans le repo, sous le nom ```out.ttl```, ou bien directement à travers son [API]( https://api.triplydb.com/datasets/Ijjaziad/laureate-nobel/sparql), hérbergé par le site ```triplyDB``` ([Notre Graphe](https://triplydb.com/Ijjaziad/laureate-nobel/sparql)). Celui ci utilise dbo:country
+Le graphe peut être récupéré dans le repo, sous le nom ```out.ttl```, ou bien directement à travers son [API]( https://api.triplydb.com/datasets/Ijjaziad/laureate-nobel/sparql), hébergé par le site ```triplyDB``` ([Notre Graphe](https://triplydb.com/Ijjaziad/laureate-nobel/sparql)). Celui ci utilise dbo:country
 
 ---
 
